@@ -3,6 +3,6 @@ run-name: Ciao da ${{ github.actor }}
 on: [push]
 jobs:
   si-fa-cose:
-  runs-on: ubuntu-latest
-  steps:
-  - run: echo "Fineeeeeeeeeeeeeeeeeeeeeeeeeee"
+    runs-on: ubuntu-latest
+    steps:
+    - run: echo "Fineeeeeeeeeeeeeeeeeeeeeeeeeee"
