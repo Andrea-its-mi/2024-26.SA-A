@@ -1,5 +1,5 @@
 name: si-actions
-run -name: Ciao da ${{ github.actor }}
+run-name: Ciao da ${{ github.actor }}
 on: [push]
 jobs:
   si-fa-cose:
